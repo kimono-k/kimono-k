@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**kimono-k/kimono-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 💻  Python, Django, Flask, Node.js, Express.js
 🌐  HTML5, CSS3, JavaScript, jQuery, React
 🛢   MySQL, MongoDB.
@@ -15,4 +10,4 @@ Here are some ideas to get you started:
 💬 Ask me about anything.
 📫 How to reach me: kevinnarain94@gmail.com
 ⚡ Fun fact: I'm studying Korean because I'm looking for an internship there.
--->
+🤢 Dislikes PHP and PHP Frameworks.
