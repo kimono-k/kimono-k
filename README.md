@@ -12,7 +12,7 @@
 <br>
 👯 I’m looking to collaborate on Python projects.
 <br>
-🤔 I’m looking for help with Math.
+🤔 Books > Netflix
 <br>
 💬 Ask me about anything.
 <br>
