@@ -2,7 +2,7 @@
 
 💻  Python, Django, Flask, Node.js, Express.js
 <br>
-🌐  HTML5, CSS3, JavaScript, jQuery
+🌐  HTML5, CSS3, JavaScript, jQuery, Milligram
 <br>
 🛢   MySQL, MongoDB.
 <br>
