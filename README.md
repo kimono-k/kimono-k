@@ -20,4 +20,4 @@
 <p>
 ⚡ Fun fact: I'm studying Korean because I'm looking for an internship there.
 <p>
-🤢 Dislikes PHP and Laravel because PHP has a long syntax and method names that doesn't make sense e.g. explode(). Laravel is like this huge kitchen where you don't need all the knives to build something. This makes it hard to search through the framework, although it's nice for huge projects. I like the philosophy of Flask more and that one drop at a time you only install the tools you need. Less is more!
+🤢 Dislikes PHP and Laravel because PHP has a long syntax and method names that doesn't make sense e.g. explode(). Laravel is like this huge kitchen where you don't need all the knives to build something. This makes it hard to search through the framework, although it's nice for huge projects. I like the philosophy of Flask more and that is "One drop at a time" you only install the tools you need. Life is short and you can't learn how to fight with all the swords out there you can only master a few.
