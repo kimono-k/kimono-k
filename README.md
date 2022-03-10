@@ -8,7 +8,7 @@
 <p>
 🔭 I’m currently working on a blogging system in Flask.
 <p>
-🌱 I’m currently learning .
+🌱 I’m currently learning Angular.
 <p>
 🤔 Books > Netflix
 <p>
