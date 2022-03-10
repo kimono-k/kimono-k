@@ -1,16 +1,14 @@
 ### It's Kimono 👋
 
-💻  Python, Django, Flask, Node.js, Express.js
+💻  Hi...
 <p>
-🌐  HTML5, CSS3, JavaScript, jQuery, Milligram, Bootstrap
+🌐  HTML5, CSS3, JavaScript, TypeScript, jQuery, Milligram, Bootstrap,
 <p>
-🛢   MySQL, MongoDB.
+🛢   MongoDB.
 <p>
 🔭 I’m currently working on a blogging system in Flask.
 <p>
-🌱 I’m currently learning React.
-<p>
-👯 I’m looking to collaborate on Python projects.
+🌱 I’m currently learning .
 <p>
 🤔 Books > Netflix
 <p>
