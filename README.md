@@ -2,7 +2,7 @@
 
 💻  Hi...
 <p>
-🌐  HTML5, CSS3, JavaScript, TypeScript, jQuery, Milligram, Bootstrap,
+🌐  HTML5, CSS3, JavaScript, TypeScript, Angular, jQuery, Milligram, Bootstrap
 <p>
 🛢   MongoDB.
 <p>
