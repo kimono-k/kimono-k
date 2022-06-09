@@ -14,6 +14,4 @@
 <p>
 📫 How to reach me: kevinnarain94@gmail.com
 <p>
-⚡ Fun fact: I'm studying Korean because I'm looking for an internship there.
-<p>
-🤢 Dislikes PHP and Laravel.
+⚡ Fun fact: I'm looking for an internship now so feel free to contact me :)
