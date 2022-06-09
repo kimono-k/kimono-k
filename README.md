@@ -6,9 +6,7 @@
 <p>
 🛢   MongoDB.
 <p>
-🔭 I’m currently working on a blogging system in Flask.
-<p>
-🌱 I’m currently learning Angular.
+🌱 I’m currently learning React.
 <p>
 🤔 Books > Netflix
 <p>
