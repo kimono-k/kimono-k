@@ -2,9 +2,8 @@
 
 💻  Front-end Developer Intern @ IO Digital 
 <p>
-🌐  HTML5, CSS3, SCSS/SASS, JavaScript, TypeScript, Angular, jQuery, Milligram, Bootstrap
+🌐  HTML5, CSS3, JavaScript, and React
 <p>
-🛢   MongoDB.
 <p>
 🌱 I’m currently learning React.
 <p>
