@@ -13,4 +13,4 @@
 <p>
 📫 How to reach me: kevinnarain94@gmail.com
 <p>
-⚡ Fun fact: I'm looking for my next internship in South-Korea so feel free to contact me :)
+⚡ kekw.
