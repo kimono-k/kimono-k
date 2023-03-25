@@ -15,4 +15,4 @@
 <p>
 ⚡ Working on rehabilitation of my posterior tibialis, and plantar fasciitis.
 -- long road to go with injuries:
-- ankle, foot, achilles tendon, soleus, knees, wrist, fingers, thumb, biceps, golfers elbow.
+- ankle, foot, achilles tendon, soleus, knees, wrist, fingers, thumb, biceps, golfers elbow, and psoas.
