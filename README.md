@@ -2,12 +2,12 @@
 
 💻  Front-end Developer Intern @ IO Digital 
 <p>
-🌐  HTML5, CSS3, JavaScript, and React
+🌐  HTML5, CSS3, JavaScript, React, Payload CMS
 <p>
 <p>
-🌱 I’m currently learning React.
+🌱 Learning how to make drum beats on my MIDI-controller.
 <p>
-🤔 Books > Netflix
+🤔 Thinking about having my next internship @ IO Digital Stockholm
 <p>
 💬 Ask me about anything.
 <p>
