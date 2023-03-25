@@ -13,4 +13,6 @@
 <p>
 📫 How to reach me: kevinnarain94@gmail.com
 <p>
-⚡ Working on rehabilitation of my posterior tibilias tendonitis, and plantar fasciitis.
+⚡ Working on rehabilitation of my posterior tibialis, and plantar fasciitis.
+-- long road to go with injuries:
+- ankle, foot, achilles tendon, soleus, knees, wrist, fingers, thumb, biceps, golfers elbow.
