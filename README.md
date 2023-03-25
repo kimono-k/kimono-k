@@ -13,4 +13,4 @@
 <p>
 📫 How to reach me: kevinnarain94@gmail.com
 <p>
-⚡ kekw.
+⚡ Working on rehabilitation of my posterior tibilias tendonitis, and plantar fasciitis.
