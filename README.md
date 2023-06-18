@@ -5,7 +5,7 @@
 🌐  HTML5, CSS3, JavaScript, React, Payload CMS
 <p>
 <p>
-🌱 Learning how to make drum beats on my MIDI-controller.
+🌱 Learning how to use PowerShell 7 to its maximum potential.
 <p>
 🤔 Thinking about having my next internship @ IO Digital Stockholm
 <p>
