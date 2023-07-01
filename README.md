@@ -2,7 +2,7 @@
 
 💻  Game Developer
 <p>
-🌐  HTML5, CSS3, JavaScript, React, Payload CMS
+🌐  HTML5, CSS3, JavaScript, React, Payload CMS, Unity C#
 <p>
 <p>
 🌱 Learning Unity Basics
