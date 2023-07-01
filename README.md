@@ -9,7 +9,7 @@
 <p>
 🤔 Thinking about living in Amsterdam
 <p>
-💬 Ask me about anything.
+💬 Ask me about anything
 <p>
 📫 How to reach me: kevinnarain94@gmail.com
 <p>
