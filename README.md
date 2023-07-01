@@ -1,18 +1,16 @@
 ### It's Kimono 👋
 
-💻  Front-end Developer Intern @ IO Digital 
+💻  Game Developer
 <p>
 🌐  HTML5, CSS3, JavaScript, React, Payload CMS
 <p>
 <p>
-🌱 Learning how to use PowerShell 7 to its maximum potential.
+🌱 Learning Unity Basics
 <p>
-🤔 Thinking about having my next internship @ IO Digital Stockholm
+🤔 Thinking about living in Amsterdam
 <p>
 💬 Ask me about anything.
 <p>
 📫 How to reach me: kevinnarain94@gmail.com
 <p>
-⚡ Working on rehabilitation of my posterior tibialis, and plantar fasciitis.
--- long road to go with injuries:
-- ankle, foot, achilles tendon, soleus, knees, wrist, fingers, thumb, biceps, golfers elbow, and psoas.
+⚡ Working on Rehabilitation
