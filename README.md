@@ -1,11 +1,11 @@
 ### It's Kimono 👋
 
-💻  Game Developer
+💻  React Native
 <p>
 🌐  HTML5, CSS3, JavaScript, React, Payload CMS, Unity C#
 <p>
 <p>
-🌱 Learning Unity Basics
+🌱 Learning React Native
 <p>
 🤔 Thinking about living in Amsterdam
 <p>
