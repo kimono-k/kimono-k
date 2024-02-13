@@ -7,7 +7,7 @@
 <p>
 🌱 Learning React Native
 <p>
-🤔 Thinking about living in Amsterdam
+🤔 Thinking about health
 <p>
 💬 Ask me about anything
 <p>
