@@ -5,7 +5,7 @@
 🌐  HTML5, CSS3, JavaScript, React, Payload CMS, Unity C#
 <p>
 <p>
-🌱 Learning React Native
+🌱 Learning Kotlin
 <p>
 🤔 Thinking about health
 <p>
