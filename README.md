@@ -2,10 +2,10 @@
 
 💻 Front-end Developer
 <p>
-🌐  HTML5, CSS3, JavaScript, React, Payload CMS, Unity C#
+🌐  HTML5, CSS3, JavaScript, React, Payload CMS, Unity C#, Machine Learning (client-side)
 <p>
 <p>
-🌱 Podcasting is another hobby of mine.
+🌱 Podcasting is another hobby of mine
 <p>
 <p>
 💬 Ask me about anything
