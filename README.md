@@ -1,6 +1,6 @@
-### It's Kimono 👋
+### It's Kevin 👋
 
-💻 Android Developer
+💻 Front-end Developer
 <p>
 🌐  HTML5, CSS3, JavaScript, React, Payload CMS, Unity C#
 <p>
