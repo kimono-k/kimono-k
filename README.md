@@ -5,7 +5,7 @@
 🌐  HTML5, CSS3, JavaScript, React, Payload CMS, Unity C#, Machine Learning (client-side)
 <p>
 <p>
-🌱 Podcasting is another hobby of mine
+🌱 Learning Flutter!
 <p>
 <p>
 💬 Ask me about anything
