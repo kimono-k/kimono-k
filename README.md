@@ -1,6 +1,6 @@
 ### It's Kevin 👋
 
-💻 Front-end Developer
+💻 Mobile App Developer
 <p>
 🌐  HTML5, CSS3, JavaScript, React, Payload CMS, Unity C#, Machine Learning (client-side)
 <p>
