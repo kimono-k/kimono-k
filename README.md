@@ -2,7 +2,7 @@
 
 💻 Mobile App Developer
 <p>
-🌐  HTML5, CSS3, JavaScript, React, Payload CMS, Unity C#, ML5.js, TypeScript
+🌐  HTML5, CSS3, JavaScript, React, Payload CMS, Unity C#, ML5.js, TypeScript, Flask
 <p>
 <p>
 🌱 Learning Flutter!
