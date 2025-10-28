@@ -1,11 +1,11 @@
 ### It's Kevin 👋
 
-💻 Mobile App Developer
+💻 Project Korea
 <p>
-🌐  HTML5, CSS3, JavaScript, Flutter, React, Payload CMS, Unity C#, ML5.js, TypeScript, Flask, WordPress, Wix
+🌐 Based in The Netherlands
 <p>
 <p>
-🌱 Learning Blender!
+🌱 Learning Korean!
 <p>
 <p>
 💬 Ask me about anything
