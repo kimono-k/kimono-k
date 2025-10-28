@@ -5,7 +5,7 @@
 🌐 Based in The Netherlands
 <p>
 <p>
-🌱 Learning Korean!
+🇰🇷 Talk To Me In Korean Core Grammar Level 10
 <p>
 <p>
 💬 Ask me about anything
